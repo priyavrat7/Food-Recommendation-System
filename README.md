@@ -5,6 +5,7 @@ Inadequate and inappropriate intake of food is known to cause various health iss
 In this project,a total number of 101 types of cuisines are taken into account.According to some vital human parameters for example weight,height,body mass index,gender,user is suggested which cuisine he should take.
 
 Documentation
+
 1)Calorie_Calculation
 
 bmi_level.csv: Data consist of obesity level on the basis of height weight and gender
