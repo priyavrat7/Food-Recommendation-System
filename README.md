@@ -1,6 +1,7 @@
 # Food-Recommendation-System
 
 Abstract
+
 Inadequate and inappropriate intake of food is known to cause various health issues and diseases. Due to lack of concise information about healthy diet, people have to rely on medicines instead of taking preventive measures in food intake. Due to diversity in food components and large number of dietary sources, it is challenging to perform real-time selection of diet patterns that must fulfill one’s nutrition needs.
 In this project,a total number of 101 types of cuisines are taken into account.According to some vital human parameters for example weight,height,body mass index,gender,user is suggested which cuisine he should take.
 
