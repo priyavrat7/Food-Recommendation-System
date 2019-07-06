@@ -29,4 +29,4 @@ https://drive.google.com/file/d/13hXkicfY_9y0zEdYVEL3OYQ8XHLJ-RVR/view?usp=shari
 Dataset Link:-https://www.vision.ee.ethz.ch/datasets_extra/food-101/
 
 
-Credits must be given to the company who created Food 101 dataset and my mentor Mr. Saurabh Bhardwaj(https://www.linkedin.com/in/saurabh-bhardwaj-b97a1539/).
+Credits must be given to the organisation  who created Food 101 dataset and my mentor Mr. Saurabh Bhardwaj(https://www.linkedin.com/in/saurabh-bhardwaj-b97a1539/).
